@@ -8,10 +8,13 @@ Pour le premier si on fait encore l'eau
 	-verre styromousse
 
 Pour le deuxieme
-	-solenoide
-	-Balle (metal ?)
-	-tube de pvc
+	-solenoide push 12V : https://www.amazon.ca/Uxcell-Push-Electromagnet-Magnet-Solenoid/dp/B018HWZZ9S/ref=sr_1_4?keywords=solenoid+push+12v&qid=1572298427&s=industrial&sr=1-4#customerReviews
+	-Balles en stainless : https://www.amazon.ca/gp/product/B07TV5DQH2/ref=ox_sc_act_title_1?smid=A2EXNPXCN2TAUX&psc=1
+	-tube de métal diamètre intérieur 1/4-3/8" ? + oreilles soudées pour fixer au solenoide
+	-équerre métal pour fixer solenoide au bras pan/tilt
 	-cible quelquonque
+	-pan/tilt pour le "canon" (avec stepper motors?) : https://www.thingiverse.com/thing:2973820
+	
 
 
 Alimentation pour les 2 contraption
